@@ -21,7 +21,7 @@ st.write("Loading voice cloning model...")
 
 tts = TTS("tts_models/multilingual/multi-dataset/xtts_v2").to("cpu")
 
-st.title("🎙️ OpenVoice - Personalized Voice Cloning")
+st.title("🎙️ Jimmy Cooks - Personalized Voice Cloning")
 st.write("**Upload a voice sample, choose a mood, enter text, and generate speech.**")
 
 # Step 1: Voice Input Selection
